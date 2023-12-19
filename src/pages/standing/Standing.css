@@ -35,11 +35,11 @@
 .rank {
   font-weight: bold;
 }
-
-.team {
-  text-transform: uppercase; /* Convert team names to uppercase */
+.flexx {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
-
 .points {
   font-weight: bold;
 }
